@@ -10,12 +10,11 @@
 I'm a driven software engineer with hands-on experience in **enterprise system development** using ASP.NET and SQL Server. Currently working at **Renuka Agri Foods PLC**, I've built production systems used by real organizations including dairy management and IT asset tracking platforms.
 
 - 🎓 **BSc (Hons) Software Engineering** from University of Plymouth, UK - *Second Class Honours (Upper Division)*
-- 💼 Building scalable enterprise solutions at **Renuka Agri Foods PLC**
+- 💼 Building scalable enterprise solutions while working at **Renuka Agri Foods PLC**
 - 🌱 Expanding my skills in **.NET, React, Flutter, Node.js** and **IoT/Embedded Systems**
 - 🚀 Passionate about creating software that bridges **backend efficiency** with **modern user experiences**
+- 🏢 Built 4+ production systems currently used by Sri Lankan companies
 - 🏆 Top 10 Finalist - **Douthan 3.0 Builathon** by IEEE NSBM (2023)
-- 📫 Reach me at: **kavindakiridena@gmail.com**
-- 🌐 Portfolio: [kavindakiridana.github.io/myportfolio](https://kavindakiridana.github.io/myportfolio/)
 
 ## 🛠️ Tech Stack
 
@@ -93,12 +92,6 @@ Full-stack web app for student accommodation search
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavindakiridana&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-## 🏆 Achievements
-
-- 🏢 Built 4+ production systems currently used by Sri Lankan companies
-- 🎓 BSc (Hons) Software Engineering - Second Class Honours (Upper Division)
-- 🥇 Top 10 Finalist - Douthan 3.0 Builathon by IEEE NSBM (2023)
-- 🤝 Committee Member - Buddhist Society NSBM Green University (2022-2025)
 
 ## 📫 Connect with Me
 
