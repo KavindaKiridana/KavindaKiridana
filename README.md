@@ -84,7 +84,7 @@ Full-stack web app for student accommodation search
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kavindakiridana&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-iota-wheat-10.vercel.app/api?username=kavindakiridana&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -92,7 +92,7 @@ Full-stack web app for student accommodation search
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavindakiridana&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats-iota-wheat-10.vercel.app/api/top-langs/?username=kavindakiridana&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 
